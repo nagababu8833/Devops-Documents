@@ -78,6 +78,9 @@ This repository provides step-by-step instructions for configuring a Jenkins Mas
      - **Availability**: `Keep the agent online as much as possible`.
 3. **Run the Agent Command**:
    - Execute the provided command from the master node's terminal.
+###
+Run the Run from agent command line: (Unix) on the master node
+After running the command you can see the below page and you can see agent is connected over there.
 
 ![Screenshot (42)](https://github.com/user-attachments/assets/9e1a91e6-670e-4179-8e33-0783c03da818)
 

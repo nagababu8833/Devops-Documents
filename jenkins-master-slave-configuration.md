@@ -98,3 +98,15 @@ This Jenkins Master-Slave setup enables distributed job execution and resource o
 
 ---
 
+## **Author**
+This guide was prepared for educational purposes. Contributions and suggestions are welcome.
+
+---
+
+### **License**
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+```
+
+### Tips
+- Replace placeholders (e.g., `<master_ip>` or `<job_name>`) with actual values where applicable.
+- Include a `LICENSE` file in your repository if using the license section.

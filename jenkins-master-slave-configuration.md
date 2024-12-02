@@ -1,4 +1,4 @@
-Here’s a sample `README.md` file for your GitHub repository based on the Jenkins Master-Slave setup you described:
+GitHub repository based on the Jenkins Master-Slave setup you described:
 
 
 # Jenkins Master-Slave Architecture Setup

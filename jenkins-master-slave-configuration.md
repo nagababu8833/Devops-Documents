@@ -1,6 +1,6 @@
 Here’s a sample `README.md` file for your GitHub repository based on the Jenkins Master-Slave setup you described:
 
-```markdown
+```
 # Jenkins Master-Slave Architecture Setup
 
 This repository provides step-by-step instructions for configuring a Jenkins Master-Slave (Master-Agent) architecture. This setup allows distributed builds and resource optimization by using multiple nodes for job execution.
@@ -25,10 +25,13 @@ This repository provides step-by-step instructions for configuring a Jenkins Mas
 
 ## **Setup Instructions**
 
+
+
 ### Step 1: Install Jenkins on Master Node
 1. Install Java:
    ```bash
    sudo apt install openjdk-11-jdk -y
+
    ```
 2. Add Jenkins repository and install:
    ```bash
@@ -96,17 +99,3 @@ This repository provides step-by-step instructions for configuring a Jenkins Mas
 ## **Conclusion**
 This Jenkins Master-Slave setup enables distributed job execution and resource optimization. Use this architecture to efficiently manage builds across different environments.
 
----
-
-## **Author**
-This guide was prepared for educational purposes. Contributions and suggestions are welcome.
-
----
-
-### **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-### Tips
-- Replace placeholders (e.g., `<master_ip>` or `<job_name>`) with actual values where applicable.
-- Include a `LICENSE` file in your repository if using the license section.

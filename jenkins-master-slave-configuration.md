@@ -29,10 +29,8 @@ This repository provides step-by-step instructions for configuring a Jenkins Mas
 ### Step 1: Install Jenkins on Master Node
 1. Install Java:
    ```bash
-  sudo apt update
-  sudo apt install fontconfig openjdk-17-jre
-  java -version
-
+     sudo apt update
+     sudo apt install fontconfig openjdk-17-jre
    ```
 2. Add Jenkins repository and install:
    ```bash

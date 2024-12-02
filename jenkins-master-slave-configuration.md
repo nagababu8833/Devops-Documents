@@ -21,6 +21,10 @@ This repository provides step-by-step instructions for configuring a Jenkins Mas
    - **Agent Node**: Executes tasks assigned by the master.
 2. **Java Installed**: Jenkins requires Java (OpenJDK 11) on both nodes.
 
+## For this tutorial, I have already created 2 linux machines and named them as Jenkins-Master & Jenkins-Slave.
+
+![Screenshot (37)](https://github.com/user-attachments/assets/ab80ef9b-2e6f-4141-884a-8dee500e9287)
+
 ---
 
 ## **Setup Instructions**
@@ -54,6 +58,14 @@ This repository provides step-by-step instructions for configuring a Jenkins Mas
 ---
 
 ## **Configuring Master-Agent Architecture**
+#Go the Jenkins UI and click on Set up and agent
+
+![Screenshot (40)](https://github.com/user-attachments/assets/24cca4d0-a6e0-4294-a9ca-0f7919d8199d)
+
+# Add the node name as per your choice
+![Screenshot (41)](https://github.com/user-attachments/assets/46d202c8-3c86-4ac9-a6f9-a98bfb301d65)
+
+
 
 1. **Navigate to Jenkins UI**: Access it via `<http://<master_ip>:8080>`.
 2. **Add a New Node**:
@@ -66,6 +78,8 @@ This repository provides step-by-step instructions for configuring a Jenkins Mas
      - **Availability**: `Keep the agent online as much as possible`.
 3. **Run the Agent Command**:
    - Execute the provided command from the master node's terminal.
+
+![Screenshot (42)](https://github.com/user-attachments/assets/9e1a91e6-670e-4179-8e33-0783c03da818)
 
 ---
 

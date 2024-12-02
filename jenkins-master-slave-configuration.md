@@ -1,6 +1,5 @@
 Here’s a sample `README.md` file for your GitHub repository based on the Jenkins Master-Slave setup you described:
 
-```
 # Jenkins Master-Slave Architecture Setup
 
 This repository provides step-by-step instructions for configuring a Jenkins Master-Slave (Master-Agent) architecture. This setup allows distributed builds and resource optimization by using multiple nodes for job execution.

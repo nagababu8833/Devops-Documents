@@ -85,6 +85,8 @@ After running the command you can see the below page and you can see agent is co
 ![Screenshot (42)](https://github.com/user-attachments/assets/9e1a91e6-670e-4179-8e33-0783c03da818)
 
 ---
+# Before running the job you can verify the uptime of your agent node.
+![Screenshot (38)](https://github.com/user-attachments/assets/53f015fd-e774-4dea-9feb-0c537c3c20df)
 
 ## **Running Jobs on the Agent Node**
 
@@ -100,6 +102,11 @@ After running the command you can see the below page and you can see agent is co
      ```
 4. **Build the Job**:
    - Click `Build Now` and verify output in the build logs.
+   - Click on build now and execute the job
+
+![Screenshot (39)](https://github.com/user-attachments/assets/d3e6f57a-9be0-46eb-a126-c455155147f6)
+
+
 
 ---
 
